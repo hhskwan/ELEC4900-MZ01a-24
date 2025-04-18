@@ -1,6 +1,6 @@
 ## About
 
-This project is the **ELEC4900 Final Year Project (FYP)** Group MZ01a-24 at **The Hong Kong University of Science and Technology (HKUST)**.  
+This project is the **ELEC4900 Final Year Project (FYP)** Group MZ01a-24 at **The Hong Kong University of Science and Technology (HKUST)**, and support only Windows machines, and we developed this project under Windows 10 environment.
 
 # Project Setup Assumptions
 
