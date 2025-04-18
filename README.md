@@ -48,6 +48,12 @@ Although the pre-requisite is stated above, this project also support other virt
    - The entire project directory and all folder/file names **contains ideally only English characters**. Avoid using any special or non-English characters.
    - We have tested project directory with Chinese symbols, it works but still avoid special or non-English characters.
 
+7. **Vagrantfile location**
+   - `Vagrantfile` must exist inside the `CPEP` folder
+  
+8. **CPEP-exe**
+   - **Please move all the files and sub-folder into `CPEP` folder, as they are the files for Qt application to be executed successfully**.
+    
 ## Caution
 
 If you are working on a Windows system, please make sure that all `.sh` files (shell scripts) use **Unix-style line endings**.  
