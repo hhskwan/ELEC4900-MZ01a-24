@@ -51,7 +51,7 @@ Although the pre-requisite is stated above, this project also support other virt
 7. **Vagrantfile location**
    - `Vagrantfile` must exist inside the `CPEP` folder
   
-8. **CPEP-exe**
+8. **CPEP-exe folder**
    - **Please move all the files and sub-folder into `CPEP` folder, as they are the files for Qt application to be executed successfully**.
     
 ## Caution
